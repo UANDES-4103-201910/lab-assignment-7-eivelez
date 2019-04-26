@@ -17,7 +17,7 @@
   text-align: center;
   border-radius:20%;
   cursor: pointer;
-  transition: box-shadow 0.7s ease;
+  transition: box-shadow 0s;
   font-size:2vw;
 }
 .first-row{
