@@ -100,3 +100,11 @@
 .key:hover{
   box-shadow:0px 0px 5vw #FF0000;
 }
+.key:active{
+  color:#111;
+  background-color:#40FF00;
+}
+.special:active{
+  color:#eee;
+  background-color:#FF0000;
+}
